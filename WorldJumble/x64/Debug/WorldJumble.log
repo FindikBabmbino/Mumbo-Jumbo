@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  main.cpp
+D:\C++Projects\WorldJumble\WorldJumble\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  WorldJumble.vcxproj -> D:\C++Projects\WorldJumble\x64\Debug\WorldJumble.exe
